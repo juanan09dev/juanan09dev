@@ -1,3 +1,6 @@
 - 👋 Hey, soy Juanan09
-- 🤖 Soy programador de JavaScript aunque próximamente de más
+- 🤖 Actualmente programo en JavaScript y HTML.
+
+▶ Youtube: https://youtube.com/jowanik
+
 
